@@ -1,0 +1,16 @@
+C:\Mac\Home\Documents\לימודים\C#\Music School\Music School\bin\Debug\net8.0-windows\Music School.exe
+C:\Mac\Home\Documents\לימודים\C#\Music School\Music School\bin\Debug\net8.0-windows\Music School.deps.json
+C:\Mac\Home\Documents\לימודים\C#\Music School\Music School\bin\Debug\net8.0-windows\Music School.runtimeconfig.json
+C:\Mac\Home\Documents\לימודים\C#\Music School\Music School\bin\Debug\net8.0-windows\Music School.dll
+C:\Mac\Home\Documents\לימודים\C#\Music School\Music School\bin\Debug\net8.0-windows\Music School.pdb
+C:\Mac\Home\Documents\לימודים\C#\Music School\Music School\obj\Debug\net8.0-windows\Music_School.Form1.resources
+C:\Mac\Home\Documents\לימודים\C#\Music School\Music School\obj\Debug\net8.0-windows\Music School.csproj.GenerateResource.cache
+C:\Mac\Home\Documents\לימודים\C#\Music School\Music School\obj\Debug\net8.0-windows\Music School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Documents\לימודים\C#\Music School\Music School\obj\Debug\net8.0-windows\Music School.AssemblyInfoInputs.cache
+C:\Mac\Home\Documents\לימודים\C#\Music School\Music School\obj\Debug\net8.0-windows\Music School.AssemblyInfo.cs
+C:\Mac\Home\Documents\לימודים\C#\Music School\Music School\obj\Debug\net8.0-windows\Music School.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\לימודים\C#\Music School\Music School\obj\Debug\net8.0-windows\Music School.dll
+C:\Mac\Home\Documents\לימודים\C#\Music School\Music School\obj\Debug\net8.0-windows\refint\Music School.dll
+C:\Mac\Home\Documents\לימודים\C#\Music School\Music School\obj\Debug\net8.0-windows\Music School.pdb
+C:\Mac\Home\Documents\לימודים\C#\Music School\Music School\obj\Debug\net8.0-windows\Music School.genruntimeconfig.cache
+C:\Mac\Home\Documents\לימודים\C#\Music School\Music School\obj\Debug\net8.0-windows\ref\Music School.dll

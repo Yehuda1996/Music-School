@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<class-room name="guitar jazz">
+  <teacher name="yossi levi" />
+  <student name="freddy mercury">
+    <instrument>guitar</instrument>
+  </student>
+</class-room>
